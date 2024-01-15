@@ -1,0 +1,1 @@
+This is the first task in the Odin Project. It's a collection of recipes, which will demonstrate the basics of HTML using images, lists, links, and more. 
